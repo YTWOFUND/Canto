@@ -1,4 +1,4 @@
-# Public RPC endpoint of YTWOFUND for Canto project.
+ <h1 align="center"> Public RPC endpoint of YTWOFUND for Canto project.
 
-[https://canto-rpc.ytwofund.pro](https://canto-rpc.ytwofund.pro)
+ <h2 align="center"> https://canto-rpc.ytwofund.pro
                          
